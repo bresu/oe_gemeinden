@@ -1,6 +1,9 @@
-# oe_gemeinden
-Eine Liste aller Gemeinden Österreichs inklusive ihrer Homepages &amp; E-Mailadressen als CSV
+# Liste aller österreichischen Gemeinden inklusive Website und E-Mail
+
+### File-Format: csv
+### Encoding: UTF-8
+
 
 ## ToDos:
-E-Mail Adressen scrapen
-Encoding fixen
+cleanup mails
+
