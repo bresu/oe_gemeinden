@@ -1,9 +1,8 @@
 # Liste aller österreichischen Gemeinden inklusive Website und E-Mail
 
-### File-Format: csv
-### Encoding: UTF-8
+### File-Format: xlsx & csv
 
 
-## ToDos:
-cleanup mails
+#### ToDos:
+_Überprüfen!_
 
