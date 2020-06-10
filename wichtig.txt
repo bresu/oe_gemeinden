@@ -1,3 +1,0 @@
-piwikMainTracker = Cookies!
-
-aspx = 2 tabs!
