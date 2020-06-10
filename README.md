@@ -8,7 +8,7 @@ Die Tabelle enthält folgende Informationen:
 * Website der Gemeinde
 * E-Mail-Adresse der Gemeinde
 
-> Formate: .csv (UTF-8) und .xlsx
+> Formate: .csv (UTF-8), .xlsx und .json
 
 ### Beispiel
 
