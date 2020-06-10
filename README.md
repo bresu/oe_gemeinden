@@ -8,6 +8,8 @@ Die Tabelle enthält folgende Informationen:
 * Website der Gemeinde
 * E-Mail-Adresse der Gemeinde
 
+> Formate: .csv (UTF-8) und .xlsx
+
 ### Beispiel
 
 | Gemeindekennziffer | Gemeindename | Postleitzahl | Website             | E-Mail              |
@@ -15,6 +17,14 @@ Die Tabelle enthält folgende Informationen:
 | 00001              | Gemeinde1    | 0001         | http://example.com  | example@example.com |
 | 00002              | Gemeinde2    | 0002         | https://example2.at | example@example2.at |
 
+##### Was ist die Gemeindekennziffer?(GKZ)
+
+Die Gemeinekennziffer wird von der Statistik Austria verwendet um die Gemeinden zu kategorisieren.
+Die fünfstellige Zahl funktioniert so:
+1. Zahl: Bundesland (Alphabetische Reihenfolge, also alle 1xxxx sind Burgendland zB)
+2. und 3. Zahl: Geben an um welchen politischen Bezirk es sich handelt. 
+Die letzten 2 Stellen: Gemeindezahl, eher unwichtig.
+Quelle: [Wikipedia](https://de.wikipedia.org/wiki/Amtlicher_Gemeindeschl%C3%BCssel#%C3%96sterreich) & [Statistik Austria](https://www.statistik.at/web_de/klassifikationen/regionale_gliederungen/gemeinden/index.html)
 
 > Quelle: [Statistik Austria](https://www.statistik.at/web_de/klassifikationen/regionale_gliederungen/gemeinden/index.html)
 
