@@ -21,9 +21,9 @@ Die Tabelle enthält folgende Informationen:
 
 Die Gemeinekennziffer wird von der Statistik Austria verwendet um die Gemeinden zu kategorisieren.
 Die fünfstellige Zahl funktioniert so:
-1. Zahl: Bundesland (Alphabetische Reihenfolge, also alle 1xxxx sind Burgendland zB)
-2. und 3. Zahl: Geben an um welchen politischen Bezirk es sich handelt.
-4. und 5. Zahl: Gemeindezahl, eher unwichtig.
+* 1\. Zahl: Bundesland (Alphabetische Reihenfolge, also alle 1xxxx sind Burgendland zB)
+* 2\. und 3. Zahl: Geben an um welchen politischen Bezirk es sich handelt.
+* 4\. und 5. Zahl: Gemeindezahl, eher unwichtig.
 
 > Wer mehr über GKZ wissen möchte: [Wikipedia](https://de.wikipedia.org/wiki/Amtlicher_Gemeindeschl%C3%BCssel#%C3%96sterreich) & [Statistik Austria](https://www.statistik.at/web_de/klassifikationen/regionale_gliederungen/gemeinden/index.html)
 
