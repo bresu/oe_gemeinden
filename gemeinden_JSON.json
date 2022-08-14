@@ -10,8 +10,8 @@
     "Gemeindekennziffer": 10201,
     "Gemeindename": "Rust",
     "PLZ": 7071,
-    "Website": "http://www.rust.at",
-    "Mail": "tourismus@freistadt-rust.at"
+    "Website": "https://www.freistadt-rust.at/",
+    "Mail": "post@rust.bgld.gv.at"
   },
   {
     "Gemeindekennziffer": 10301,
@@ -312,7 +312,7 @@
     "Gemeindename": "Großmürbisch",
     "PLZ": 7540,
     "Website": "http://www.grossmuerbisch.at",
-    "Mail": "post@strem.bgld.gv.at"
+    "Mail": "post@grossmuerbisch.bgld.gv.at"
   },
   {
     "Gemeindekennziffer": 10421,
@@ -626,8 +626,8 @@
     "Gemeindekennziffer": 10706,
     "Gemeindename": "Gattendorf",
     "PLZ": 2474,
-    "Website": "http://www.gemeinde-gattendorf.at",
-    "Mail": "kundenservice@kabelplus.co.at"
+    "Website": "https://www.gattendorf.at/",
+    "Mail": "buergerservice@gattendorf.bgld.gv.at"
   },
   {
     "Gemeindekennziffer": 10707,
@@ -704,7 +704,7 @@
     "Gemeindename": "Parndorf",
     "PLZ": 7111,
     "Website": "http://www.gemeinde-parndorf.at",
-    "Mail": "office@eloops.at"
+    "Mail": "post@parndorf.bgld.gv.at"
   },
   {
     "Gemeindekennziffer": 10718,
@@ -864,8 +864,8 @@
     "Gemeindekennziffer": 10813,
     "Gemeindename": "Neckenmarkt",
     "PLZ": 7311,
-    "Website": "http://www.neckenmarkt.at",
-    "Mail": "winzerkeller@neckenmarkt.at"
+    "Website": "https://www.neckenmarkt.net/gemeinde/",
+    "Mail": "post@neckenmarkt.bgld.gv.at"
   },
   {
     "Gemeindekennziffer": 10814,
@@ -963,7 +963,7 @@
     "Gemeindename": "Weingraben",
     "PLZ": 7374,
     "Website": "none",
-    "Mail": "none"
+    "Mail": "post@weingraben.bgld.gv.at"
   },
   {
     "Gemeindekennziffer": 10828,
@@ -997,8 +997,8 @@
     "Gemeindekennziffer": 10904,
     "Gemeindename": "Grafenschachen",
     "PLZ": 7423,
-    "Website": "none",
-    "Mail": "none"
+    "Website": "grafenschachen.at",
+    "Mail": "post@grafenschachen.bgld.gv.at"
   },
   {
     "Gemeindekennziffer": 10905,
@@ -1039,8 +1039,8 @@
     "Gemeindekennziffer": 10910,
     "Gemeindename": "Loipersdorf-Kitzladen",
     "PLZ": 7410,
-    "Website": "http://www.loipersdorf.co.at",
-    "Mail": "info@panoramahof.com"
+    "Website": "https://gemeinde.loipersdorf.at/",
+    "Mail": "gde@bad-loipersdorf.gv.at"
   },
   {
     "Gemeindekennziffer": 10911,
@@ -1116,8 +1116,8 @@
     "Gemeindekennziffer": 10921,
     "Gemeindename": "Rotenturm an der Pinka",
     "PLZ": 7501,
-    "Website": "nope",
-    "Mail": "none"
+    "Website": "none",
+    "Mail": "post@rotenturm-pinka.bgld.gv.at"
   },
   {
     "Gemeindekennziffer": 10922,
@@ -1208,7 +1208,7 @@
     "Gemeindename": "Villach",
     "PLZ": 9500,
     "Website": "http://www.villach.at",
-    "Mail": "service@villach.at"
+    "Mail": "buergerservice@villach.at"
   },
   {
     "Gemeindekennziffer": 20302,
@@ -1292,7 +1292,7 @@
     "Gemeindename": "Keutschach am See",
     "PLZ": 9074,
     "Website": "http://www.keutschach.gv.at",
-    "Mail": "office@caritas-kaernten.at"
+    "Mail": "keutschach-see@ktn.gde.at"
   },
   {
     "Gemeindekennziffer": 20414,
@@ -1320,7 +1320,7 @@
     "Gemeindename": "Maria Rain",
     "PLZ": 9161,
     "Website": "http://www.maria-rain.gv.at",
-    "Mail": "office@kucos.at"
+    "Mail": "maria-rain@ktn.gde.at"
   },
   {
     "Gemeindekennziffer": 20418,
@@ -1397,7 +1397,7 @@
     "Gemeindename": "Althofen",
     "PLZ": 9330,
     "Website": "http://www.althofen.gv.at",
-    "Mail": "simone.schmidinger@ktn.gde.at"
+    "Mail": "althofen@ktn.gde.at"
   },
   {
     "Gemeindekennziffer": 20502,
@@ -1459,8 +1459,8 @@
     "Gemeindekennziffer": 20512,
     "Gemeindename": "Kappel am Krappfeld",
     "PLZ": 9321,
-    "Website": "http://www.kappel.co.at",
-    "Mail": "antiques@kappel.co.at"
+    "Website": "https://kappel-am-krappfeld.at/",
+    "Mail": "kappel-kr@ktn.gde.at"
   },
   {
     "Gemeindekennziffer": 20513,
@@ -1921,7 +1921,7 @@
     "Gemeindekennziffer": 20804,
     "Gemeindename": "Eisenkappel-Vellach",
     "PLZ": 9135,
-    "Website": "http://www.eisenkappel.at",
+    "Website": "https://www.bad-eisenkappel.info/",
     "Mail": "gemeindeamt@bad-eisenkappel.info"
   },
   {
@@ -2117,8 +2117,8 @@
     "Gemeindekennziffer": 21010,
     "Gemeindename": "Steuerberg",
     "PLZ": 9560,
-    "Website": "http://www.steuerberg.co.at",
-    "Mail": "zuhause@steuerberg.eu"
+    "Website": "https://www.steuerberg.at/",
+    "Mail": "steuerberg@ktn.gde.at"
   },
   {
     "Gemeindekennziffer": 30101,
@@ -2132,7 +2132,7 @@
     "Gemeindename": "St. Pölten",
     "PLZ": 3100,
     "Website": "http://www.st-poelten.gv.at",
-    "Mail": "tourismus@st-poelten.gv.at"
+    "Mail": "rathaus@st-poelten.gv.at"
   },
   {
     "Gemeindekennziffer": 30301,
@@ -2608,7 +2608,7 @@
     "Gemeindename": "Bad Deutsch-Altenburg",
     "PLZ": 2405,
     "Website": "http://www.bad-deutsch-altenburg.gv.at",
-    "Mail": "office@roemerland-carnuntum.at"
+    "Mail": "buero@bad-deutsch-altenburg.gv.at"
   },
   {
     "Gemeindekennziffer": 30703,
@@ -2838,8 +2838,8 @@
     "Gemeindekennziffer": 30802,
     "Gemeindename": "Andlersdorf",
     "PLZ": 2301,
-    "Website": "none",
-    "Mail": "none"
+    "Website": "https://www.noe.gv.at/noe/Andlersdorf.html",
+    "Mail": "gemeinde-andlersdorf@aon.at"
   },
   {
     "Gemeindekennziffer": 30803,
@@ -2929,8 +2929,8 @@
     "Gemeindekennziffer": 30822,
     "Gemeindename": "Großhofen",
     "PLZ": 2282,
-    "Website": "none",
-    "Mail": "none"
+    "Website": "https://www.noe.gv.at/noe/grosshofen.html",
+    "Mail": "gemeinde@grosshofen.gv.at"
   },
   {
     "Gemeindekennziffer": 30824,
@@ -4672,8 +4672,8 @@
     "Gemeindekennziffer": 31717,
     "Gemeindename": "Mödling",
     "PLZ": 2340,
-    "Website": "http://www.moedling.co.at",
-    "Mail": "appartements@verberne.at"
+    "Website": "https://www.moedling.at/",
+    "Mail": "office@moedling.at"
   },
   {
     "Gemeindekennziffer": 31718,
@@ -4764,7 +4764,7 @@
     "Gemeindename": "Enzenreith",
     "PLZ": 2640,
     "Website": "http://www.gemeinde-enzenreith.at",
-    "Mail": "presse.niederoesterreich@bmlv.gv.at"
+    "Mail": "verwaltung@gemeinde-enzenreith.at"
   },
   {
     "Gemeindekennziffer": 31809,
@@ -4925,7 +4925,7 @@
     "Gemeindename": "Schwarzau im Gebirge",
     "PLZ": 2662,
     "Website": "https://www.schwarzau-gebirge.gv.at/",
-    "Mail": "info@gemeinde-paket.at"
+    "Mail": "gemeinde@schwarzauimgebirge.at"
   },
   {
     "Gemeindekennziffer": 31837,
@@ -5709,7 +5709,7 @@
     "Gemeindename": "Waldkirchen an der Thaya",
     "PLZ": 3844,
     "Website": "http://www.waldkirchen-thaya.gv.at",
-    "Mail": "andrea.donesch@chello.at"
+    "Mail": "gemeinde@waldkirchen-thaya.at"
   },
   {
     "Gemeindekennziffer": 32223,
@@ -5849,7 +5849,7 @@
     "Gemeindename": "Matzendorf-Hölles",
     "PLZ": 2751,
     "Website": "http://www.matzendorf.gv.at",
-    "Mail": "webmaster@matzendorf.at"
+    "Mail": "matzendorf-hoelles@gmx.at"
   },
   {
     "Gemeindekennziffer": 32321,
@@ -6122,7 +6122,7 @@
     "Gemeindename": "Waldhausen",
     "PLZ": 3914,
     "Website": "http://www.waldhausen.gv.at",
-    "Mail": "office@waldviertler-kernland.at"
+    "Mail": "info@waldhausen.gv.at"
   },
   {
     "Gemeindekennziffer": 32530,
@@ -6318,7 +6318,7 @@
     "Gemeindename": "Moosbach",
     "PLZ": 5271,
     "Website": "http://www.moosbach.at",
-    "Mail": "office@jofra-werbung.at"
+    "Mail": "gemeindeamt@moosbach.at"
   },
   {
     "Gemeindekennziffer": 40425,
@@ -6492,8 +6492,8 @@
     "Gemeindekennziffer": 40503,
     "Gemeindename": "Eferding",
     "PLZ": 4070,
-    "Website": "http://www.eferding.gv.at",
-    "Mail": "andreas.humer@eferding.at"
+    "Website": "https://www.eferding.at/system/web/default.aspx?",
+    "Mail": "gemeinde@eferding.at"
   },
   {
     "Gemeindekennziffer": 40504,
@@ -6521,7 +6521,7 @@
     "Gemeindename": "Hinzenbach",
     "PLZ": 4070,
     "Website": "http://www.hinzenbach.at",
-    "Mail": "gerald.fuchsmayr@hinzenbach.ooe.gv.at"
+    "Mail": "gemeindeamt@hinzenbach.ooe.gv.at"
   },
   {
     "Gemeindekennziffer": 40508,
@@ -6625,8 +6625,8 @@
     "Gemeindekennziffer": 40610,
     "Gemeindename": "Leopoldschlag",
     "PLZ": 4262,
-    "Website": "http://www.leopoldschlag.at",
-    "Mail": "info@muehlviertel.at"
+    "Website": "http://www.leopoldschlag.ooe.gv.at/",
+    "Mail": "gemeinde@leopoldschlag.ooe.gv.at"
   },
   {
     "Gemeindekennziffer": 40611,
@@ -6688,8 +6688,8 @@
     "Gemeindekennziffer": 40619,
     "Gemeindename": "Schönau im Mühlkreis",
     "PLZ": 4274,
-    "Website": "http://www.schoenau.at",
-    "Mail": "tdw@gross.schoenau.at"
+    "Website": "http://www.schoenau-im.at/",
+    "Mail": "gemeinde@schoenau-im.at"
   },
   {
     "Gemeindekennziffer": 40620,
@@ -6793,8 +6793,8 @@
     "Gemeindekennziffer": 40707,
     "Gemeindename": "Grünau im Almtal",
     "PLZ": 4645,
-    "Website": "http://www.gruenau-almtal.at",
-    "Mail": "info@traunsee-almtal.at"
+    "Website": "https://www.gruenau.ooe.gv.at/",
+    "Mail": "gemeinde@gruenau.ooe.gv.at"
   },
   {
     "Gemeindekennziffer": 40708,
@@ -7290,8 +7290,8 @@
     "Gemeindekennziffer": 41002,
     "Gemeindename": "Ansfelden",
     "PLZ": 4053,
-    "Website": "http://www.ansfelden.co.at",
-    "Mail": "fragmich@ansfelden.co.at"
+    "Website": "https://www.ansfelden.at/",
+    "Mail": "stadtgemeinde@ansfelden.at"
   },
   {
     "Gemeindekennziffer": 41003,
@@ -7403,7 +7403,7 @@
     "Gemeindename": "Piberbach",
     "PLZ": 4533,
     "Website": "http://www.piberbach.at",
-    "Mail": "kuehboeck@piberbach.ooe.gv.at"
+    "Mail": "gemeinde@piberbach.ooe.gv.at "
   },
   {
     "Gemeindekennziffer": 41019,
@@ -7465,8 +7465,8 @@
     "Gemeindekennziffer": 41105,
     "Gemeindename": "Grein",
     "PLZ": 4360,
-    "Website": "http://www.grein.co.at",
-    "Mail": "info@baumfried.at"
+    "Website": "http://www.grein.ooe.gv.at/",
+    "Mail": "stadtamt@grein.ooe.gv.at"
   },
   {
     "Gemeindekennziffer": 41106,
@@ -7508,7 +7508,7 @@
     "Gemeindename": "Mauthausen",
     "PLZ": 4310,
     "Website": "http://www.mauthausen.at",
-    "Mail": "gu@mauthausen.at"
+    "Mail": "gemeinde@mauthausen.at"
   },
   {
     "Gemeindekennziffer": 41112,
@@ -8383,7 +8383,7 @@
     "Gemeindename": "Großraming",
     "PLZ": 4463,
     "Website": "http://www.grossraming.at",
-    "Mail": "gemeinde@gro√É¬É√Ç¬üraming.ooe.gv.at"
+    "Mail": "gemeinde@grossraming.ooe.gv.at"
   },
   {
     "Gemeindekennziffer": 41508,
@@ -8592,8 +8592,8 @@
     "Gemeindekennziffer": 41617,
     "Gemeindename": "Ottensheim",
     "PLZ": 4100,
-    "Website": "http://www.ottensheim.at",
-    "Mail": "webmaster@ottensheim.at"
+    "Website": "https://www.ottensheim.ooe.gv.at/",
+    "Mail": "gemeinde@ottensheim.ooe.gv.at"
   },
   {
     "Gemeindekennziffer": 41618,
@@ -8971,7 +8971,7 @@
     "Gemeindename": "Ungenach",
     "PLZ": 4841,
     "Website": "http://www.ungenach.at",
-    "Mail": "asamer@ungenach.ooe.gv.at"
+    "Mail": "gemeinde@ungenach.ooe.gv.at"
   },
   {
     "Gemeindekennziffer": 41745,
@@ -9229,22 +9229,22 @@
     "Gemeindekennziffer": 50204,
     "Gemeindename": "Golling an der Salzach",
     "PLZ": 5440,
-    "Website": "http://www.golling.at",
-    "Mail": "info@hauslwirt.at"
+    "Website": "https://www.golling.salzburg.at/",
+    "Mail": "gemeinde@golling.salzburg.at"
   },
   {
     "Gemeindekennziffer": 50205,
     "Gemeindename": "Hallein",
     "PLZ": 5400,
     "Website": "http://www.hallein.gv.at",
-    "Mail": "%E2%80%8Brechnungen@hallein.gv.at"
+    "Mail": "stadtamt@hallein.gv.at"
   },
   {
     "Gemeindekennziffer": 50206,
     "Gemeindename": "Krispl",
     "PLZ": 5425,
     "Website": "http://www.krispl.gv.at",
-    "Mail": "gem.krispl@salzburg.at"
+    "Mail": "gemeindeamt@krispl.gv.at"
   },
   {
     "Gemeindekennziffer": 50207,
@@ -9376,8 +9376,8 @@
     "Gemeindekennziffer": 50312,
     "Gemeindename": "Fuschl am See",
     "PLZ": 5330,
-    "Website": "http://www.fuschlsee.at",
-    "Mail": "info@fuschlseeregion.com"
+    "Website": "https://www.fuschlamsee.at/",
+    "Mail": "gemeinde@fuschlamsee.at"
   },
   {
     "Gemeindekennziffer": 50313,
@@ -9481,8 +9481,8 @@
     "Gemeindekennziffer": 50327,
     "Gemeindename": "Obertrum am See",
     "PLZ": 5162,
-    "Website": "http://www.obertrum.co.at",
-    "Mail": "info@salzburger-seenland.at"
+    "Website": "https://www.obertrum.at/",
+    "Mail": "office@obertrum.at"
   },
   {
     "Gemeindekennziffer": 50328,
@@ -9838,8 +9838,8 @@
     "Gemeindekennziffer": 50601,
     "Gemeindename": "Bramberg am Wildkogel",
     "PLZ": 5733,
-    "Website": "http://www.bramberg.at",
-    "Mail": "office@2getmore.at"
+    "Website": "https://www.bramberg.salzburg.at/",
+    "Mail": "gemeinde@bramberg.at"
   },
   {
     "Gemeindekennziffer": 50602,
@@ -9950,15 +9950,15 @@
     "Gemeindekennziffer": 50617,
     "Gemeindename": "Rauris",
     "PLZ": 5661,
-    "Website": "http://www.rauris.co.at",
-    "Mail": "info@raurisertal.at"
+    "Website": "https://www.rauris.net/",
+    "Mail": "gemeinde@rauris.net"
   },
   {
     "Gemeindekennziffer": 50618,
     "Gemeindename": "Saalbach-Hinterglemm",
     "PLZ": 5753,
-    "Website": "http://www.saalbach-hinterglemm.at",
-    "Mail": "office@gumplod.at"
+    "Website": "https://www.saalbach.or.at/",
+    "Mail": "gemeinde@saalbach.at"
   },
   {
     "Gemeindekennziffer": 50619,
@@ -9971,15 +9971,15 @@
     "Gemeindekennziffer": 50620,
     "Gemeindename": "Sankt Martin bei Lofer",
     "PLZ": 5092,
-    "Website": "https://www.stmartin.at/Home.10.0.html",
+    "Website": "https://www.stmartin.at/",
     "Mail": "gemeinde@stmartin.at"
   },
   {
     "Gemeindekennziffer": 50621,
     "Gemeindename": "Stuhlfelden",
     "PLZ": 5724,
-    "Website": "http://www.stuhlfelden.at",
-    "Mail": "welcome@mittersill.info"
+    "Website": "https://www.stuhlfelden.salzburg.at/",
+    "Mail": "gemeindeamt@stuhlfelden.salzburg.at"
   },
   {
     "Gemeindekennziffer": 50622,
@@ -10266,14 +10266,14 @@
     "Gemeindename": "Stiwoll",
     "PLZ": 8113,
     "Website": "http://www.stiwoll.at",
-    "Mail": "alfred.brettenthaler@gmx.at"
+    "Mail": "gde@stiwoll.gv.at"
   },
   {
     "Gemeindekennziffer": 60648,
     "Gemeindename": "Thal",
     "PLZ": 8051,
     "Website": "http://www.thal.at",
-    "Mail": "dorfassistenz@thal.at"
+    "Mail": "thal@sulzberg.at"
   },
   {
     "Gemeindekennziffer": 60651,
@@ -10489,7 +10489,7 @@
     "Gemeindekennziffer": 61030,
     "Gemeindename": "Sankt Andrä-Höch",
     "PLZ": 8444,
-    "Website": "http://www.st-andrae-hoech.atstartseite/",
+    "Website": "http://st-andrae-hoech.at",
     "Mail": "gde@st-andrae-hoech.steiermark.at"
   },
   {
@@ -10741,8 +10741,8 @@
     "Gemeindekennziffer": 61207,
     "Gemeindename": "Bad Aussee",
     "PLZ": 8990,
-    "Website": "https://ausseerland.salzkammergut.at/",
-    "Mail": "info@ausseerland.at"
+    "Website": "https://www.badaussee.at/",
+    "Mail": "gemeinde@badaussee.at"
   },
   {
     "Gemeindekennziffer": 61213,
@@ -10825,8 +10825,8 @@
     "Gemeindekennziffer": 61255,
     "Gemeindename": "Bad Mitterndorf",
     "PLZ": 8983,
-    "Website": "http://www.bad.co.at",
-    "Mail": "haustechnik@chello.at"
+    "Website": "https://gemeinde.bad-mitterndorf.at/de/",
+    "Mail": "gde@bad-mitterndorf.gv.at"
   },
   {
     "Gemeindekennziffer": 61256,
@@ -10909,15 +10909,15 @@
     "Gemeindekennziffer": 61267,
     "Gemeindename": "Stainach-Pürgg",
     "PLZ": 8950,
-    "Website": "http://www.stainach.at",
-    "Mail": "office@sysup.at"
+    "Website": "https://www.stainach-puergg.gv.at/",
+    "Mail": "gde@stainach-puergg.gv.at"
   },
   {
     "Gemeindekennziffer": 61410,
     "Gemeindename": "Mühlen",
     "PLZ": 8822,
     "Website": "http://www.muehlen.at",
-    "Mail": "mg.muehlen@gmail.com"
+    "Mail": "gemeinde@muehlen.at"
   },
   {
     "Gemeindekennziffer": 61413,
@@ -11134,7 +11134,7 @@
     "Gemeindename": "Floing",
     "PLZ": 8183,
     "Website": "http://www.floing.at",
-    "Mail": "bgm.gruber@live.at"
+    "Mail": "gde@floing.steiermark.at"
   },
   {
     "Gemeindekennziffer": 61711,
@@ -11155,7 +11155,7 @@
     "Gemeindename": "Hofstätten an der Raab",
     "PLZ": 8200,
     "Website": "http://www.hofstaetten.at",
-    "Mail": "office@macherfenster.at"
+    "Mail": "gde@hofstaetten-raab.gv.at"
   },
   {
     "Gemeindekennziffer": 61727,
@@ -11196,8 +11196,8 @@
     "Gemeindekennziffer": 61740,
     "Gemeindename": "Puch bei Weiz",
     "PLZ": 8182,
-    "Website": "http://www.puchbeiweiz.at",
-    "Mail": "info@apfelstrasse.at"
+    "Website": "https://www.puch-weiz.gv.at/",
+    "Mail": "gde@puch-weiz.gv.at"
   },
   {
     "Gemeindekennziffer": 61741,
@@ -11351,7 +11351,7 @@
     "Gemeindename": "Hohentauern",
     "PLZ": 8785,
     "Website": "http://www.hohentauern.at",
-    "Mail": "urlaub@murau-murtal.at"
+    "Mail": "gde@hohentauern.gv.at"
   },
   {
     "Gemeindekennziffer": 62014,
@@ -11427,8 +11427,8 @@
     "Gemeindekennziffer": 62042,
     "Gemeindename": "Obdach",
     "PLZ": 8742,
-    "Website": "http://www.obdach.at",
-    "Mail": "tischlerei.baumgartner@obdach.at"
+    "Website": "https://marktgemeinde-obdach.at/",
+    "Mail": "gemeinde@obdach.gv.at"
   },
   {
     "Gemeindekennziffer": 62043,
@@ -11511,8 +11511,8 @@
     "Gemeindekennziffer": 62131,
     "Gemeindename": "Spital am Semmering",
     "PLZ": 8684,
-    "Website": "http://www.spital.co.at",
-    "Mail": "info@pellets-portal.at"
+    "Website": "https://www.spitalamsemmering.com/",
+    "Mail": "gemeinde@spital-semmering.gv.at"
   },
   {
     "Gemeindekennziffer": 62132,
@@ -11567,8 +11567,8 @@
     "Gemeindekennziffer": 62143,
     "Gemeindename": "Mürzzuschlag",
     "PLZ": 8680,
-    "Website": "http://www.muerzzuschlag.gv.at",
-    "Mail": "supportmailx@xbaton.at"
+    "Website": "https://www.muerzzuschlag.at/",
+    "Mail": "stadtamt@mzz.at"
   },
   {
     "Gemeindekennziffer": 62144,
@@ -11582,7 +11582,7 @@
     "Gemeindename": "Sankt Barbara im Mürztal",
     "PLZ": 8662,
     "Website": "https://www.st-barbara.gv.at",
-    "Mail": "gerlinde.zottler@st-barbara.gv.at"
+    "Mail": "gde@st-barbara.gv.at"
   },
   {
     "Gemeindekennziffer": 62146,
@@ -11687,7 +11687,7 @@
     "Gemeindename": "Pinggau",
     "PLZ": 8243,
     "Website": "http://www.pinggau.gv.at",
-    "Mail": "luckerbauer@pinggau.gv.at"
+    "Mail": "gde@pinggau.gv.at"
   },
   {
     "Gemeindekennziffer": 62235,
@@ -11728,8 +11728,8 @@
     "Gemeindekennziffer": 62252,
     "Gemeindename": "Söchau",
     "PLZ": 8362,
-    "Website": "http://www.soechau.at",
-    "Mail": "webmaster@soechau.at"
+    "Website": "http://soechau.steiermark.at",
+    "Mail": "gde@soechau.gv.at"
   },
   {
     "Gemeindekennziffer": 62256,
@@ -11834,7 +11834,7 @@
     "Gemeindename": "Rohr bei Hartberg",
     "PLZ": 8294,
     "Website": "http://www.rohr-bei-hartberg.at",
-    "Mail": "juergen.peindl@rohr-bei-hartberg.at"
+    "Mail": "gde@rohr-bei-hartberg.at"
   },
   {
     "Gemeindekennziffer": 62277,
@@ -11925,7 +11925,7 @@
     "Gemeindename": "Bad Gleichenberg",
     "PLZ": 8344,
     "Website": "http://www.bad-gleichenberg.gv.at",
-    "Mail": "webmaster@bad-gleichenberg.gv.at"
+    "Mail": "gde@bad-gleichenberg.gv.at"
   },
   {
     "Gemeindekennziffer": 62376,
@@ -12457,7 +12457,7 @@
     "Gemeindename": "Pettnau",
     "PLZ": 6408,
     "Website": "http://www.pettnau.at",
-    "Mail": "gemeinde@petrtnau.tirol.gv.at"
+    "Mail": "gemeinde@pettnau.tirol.gv.at"
   },
   {
     "Gemeindekennziffer": 70340,
@@ -12491,8 +12491,8 @@
     "Gemeindekennziffer": 70344,
     "Gemeindename": "Reith bei Seefeld",
     "PLZ": 6103,
-    "Website": "http://www.reithbeiseefeld.at",
-    "Mail": "info.reith@seefeld.com"
+    "Website": "https://www.reith-seefeld.at/",
+    "Mail": "gemeinde@reith-seefeld.at%20"
   },
   {
     "Gemeindekennziffer": 70345,
@@ -12540,8 +12540,8 @@
     "Gemeindekennziffer": 70351,
     "Gemeindename": "Seefeld in Tirol",
     "PLZ": 6100,
-    "Website": "http://www.seefeld-tirol.at",
-    "Mail": "info@seefeld.com"
+    "Website": "https://www.gemeinde-seefeld.eu/",
+    "Mail": "gemeinde@seefeld.eu"
   },
   {
     "Gemeindekennziffer": 70352,
@@ -12932,8 +12932,8 @@
     "Gemeindekennziffer": 70520,
     "Gemeindename": "Radfeld",
     "PLZ": 6241,
-    "Website": "http://www.radfeld.at",
-    "Mail": "erwachsenenschule@angerberg.at"
+    "Website": "https://www.radfeld.tirol.gv.at/",
+    "Mail": "gemeinde@radfeld.tirol.gv.at"
   },
   {
     "Gemeindekennziffer": 70521,
@@ -13297,7 +13297,7 @@
     "Gemeindename": "Iselsberg-Stronach",
     "PLZ": 9992,
     "Website": "http://www.iselsberg-stronach.at",
-    "Mail": "office@permedia.at"
+    "Mail": "office@gemeinde-iselsberg.at"
   },
   {
     "Gemeindekennziffer": 70712,
@@ -13338,8 +13338,8 @@
     "Gemeindekennziffer": 70717,
     "Gemeindename": "Matrei in Osttirol",
     "PLZ": 9971,
-    "Website": "http://www.matrei-osttirol.at",
-    "Mail": "welcome@sunmatrei.com"
+    "Website": "http://www.matrei-ost.tirol.gv.at",
+    "Mail": "gemeinde@matrei-ost.tirol.gv.at"
   },
   {
     "Gemeindekennziffer": 70718,
@@ -14312,7 +14312,7 @@
     "Gemeindename": "Hörbranz",
     "PLZ": 6912,
     "Website": "http://www.hoerbranz.at",
-    "Mail": "gemeinde@hoerbran.at"
+    "Mail": "gemeinde@hoerbranz.at"
   },
   {
     "Gemeindekennziffer": 80219,
@@ -14423,8 +14423,8 @@
     "Gemeindekennziffer": 80234,
     "Gemeindename": "Schröcken",
     "PLZ": 6888,
-    "Website": "https://www.warth-schroecken.at",
-    "Mail": "info@warth-schroecken.com"
+    "Website": "https://www.gemeinde-schroecken.at/",
+    "Mail": "gemeinde@schroecken.at"
   },
   {
     "Gemeindekennziffer": 80235,
@@ -14443,56 +14443,56 @@
   {
     "Gemeindekennziffer": 80237,
     "Gemeindename": "Sibratsgfäll",
-    "PLZ": 6767,
+    "PLZ": 6952,
     "Website": "http://www.sibra.at/index.php",
     "Mail": "sibra@sibra.at"
   },
   {
     "Gemeindekennziffer": 80238,
     "Gemeindename": "Sulzberg",
-    "PLZ": 6952,
+    "PLZ": 6934,
     "Website": "http://www.sulzberg.at",
     "Mail": "gemeinde@sulzberg.at"
   },
   {
     "Gemeindekennziffer": 80239,
     "Gemeindename": "Warth",
-    "PLZ": 6934,
-    "Website": "https://www.warth-schroecken.at/",
-    "Mail": "info@warth-schroecken.com"
+    "PLZ": 6767,
+    "Website": "https://www.gemeinde-warth.at/",
+    "Mail": "gemeinde@warth.at"
   },
   {
     "Gemeindekennziffer": 80240,
     "Gemeindename": "Wolfurt",
-    "PLZ": 6767,
+    "PLZ": 6922,
     "Website": "http://www.wolfurt.at",
     "Mail": "gemeinde@wolfurt.at"
   },
   {
     "Gemeindekennziffer": 80301,
     "Gemeindename": "Dornbirn",
-    "PLZ": 6922,
+    "PLZ": 6850,
     "Website": "https://www.dornbirn.at/",
     "Mail": "stadt@dornbirn.at"
   },
   {
     "Gemeindekennziffer": 80302,
     "Gemeindename": "Hohenems",
-    "PLZ": 6850,
+    "PLZ": 6845,
     "Website": "https://www.hohenems.at",
     "Mail": "stadt@hohenems.at"
   },
   {
     "Gemeindekennziffer": 80303,
     "Gemeindename": "Lustenau",
-    "PLZ": 6845,
+    "PLZ": 6890,
     "Website": "http://www.lustenau.gv.at",
     "Mail": "gemeindeamt@lustenau.at"
   },
   {
     "Gemeindekennziffer": 80401,
     "Gemeindename": "Altach",
-    "PLZ": 6890,
+    "PLZ": 6844,
     "Website": "http://www.altach.at",
     "Mail": "gemeinde@altach.at"
   },
@@ -14513,140 +14513,140 @@
   {
     "Gemeindekennziffer": 80404,
     "Gemeindename": "Feldkirch",
-    "PLZ": 6822,
+    "PLZ": 6800,
     "Website": "http://www.feldkirch.gv.at",
     "Mail": "info@feldkirch.at"
   },
   {
     "Gemeindekennziffer": 80405,
     "Gemeindename": "Frastanz",
-    "PLZ": 6800,
+    "PLZ": 6820,
     "Website": "http://www.frastanz.at",
     "Mail": "buergerservice@frastanz.at"
   },
   {
     "Gemeindekennziffer": 80406,
     "Gemeindename": "Fraxern",
-    "PLZ": 6820,
+    "PLZ": 6833,
     "Website": "http://www.fraxern.at",
     "Mail": "gemeinde@fraxern.at"
   },
   {
     "Gemeindekennziffer": 80407,
     "Gemeindename": "Göfis",
-    "PLZ": 6833,
+    "PLZ": 6811,
     "Website": "http://www.goefis.at",
     "Mail": "gemeindeamt@goefis.at"
   },
   {
     "Gemeindekennziffer": 80408,
     "Gemeindename": "Götzis",
-    "PLZ": 6811,
+    "PLZ": 6840,
     "Website": "http://www.goetzis.at",
     "Mail": "marktgemeinde@goetzis.at"
   },
   {
     "Gemeindekennziffer": 80409,
     "Gemeindename": "Klaus",
-    "PLZ": 6840,
+    "PLZ": 6833,
     "Website": "https://www.klaus.at",
     "Mail": "gemeinde@klaus.cnv.at"
   },
   {
     "Gemeindekennziffer": 80410,
     "Gemeindename": "Koblach",
-    "PLZ": 6833,
+    "PLZ": 6842,
     "Website": "http://www.koblach.at",
     "Mail": "gemeinde@koblach.at"
   },
   {
     "Gemeindekennziffer": 80411,
     "Gemeindename": "Laterns",
-    "PLZ": 6842,
+    "PLZ": 6830,
     "Website": "http://www.laterns.at",
     "Mail": "gemeindeamt@laternsertal.at"
   },
   {
     "Gemeindekennziffer": 80412,
     "Gemeindename": "Mäder",
-    "PLZ": 6830,
+    "PLZ": 6841,
     "Website": "https://maeder.at/",
     "Mail": "gemeinde@maeder.at"
   },
   {
     "Gemeindekennziffer": 80413,
     "Gemeindename": "Meiningen",
-    "PLZ": 6841,
+    "PLZ": 6812,
     "Website": "http://www.meiningen.at",
     "Mail": "gemeinde@meiningen.at"
   },
   {
     "Gemeindekennziffer": 80414,
     "Gemeindename": "Rankweil",
-    "PLZ": 6812,
+    "PLZ": 6830,
     "Website": "http://www.rankweil.at",
     "Mail": "marktgemeinde@rankweil.at"
   },
   {
     "Gemeindekennziffer": 80415,
     "Gemeindename": "Röns",
-    "PLZ": 6830,
+    "PLZ": 6822,
     "Website": "http://www.roens.at",
     "Mail": "gemeinde@roens.at"
   },
   {
     "Gemeindekennziffer": 80416,
     "Gemeindename": "Röthis",
-    "PLZ": 6822,
+    "PLZ": 6832,
     "Website": "http://www.roethis.at",
     "Mail": "gemeinde@roethis.at"
   },
   {
     "Gemeindekennziffer": 80417,
     "Gemeindename": "Satteins",
-    "PLZ": 6832,
+    "PLZ": 6822,
     "Website": "https://www.satteins.net",
     "Mail": "gemeinde@satteins.net"
   },
   {
     "Gemeindekennziffer": 80418,
     "Gemeindename": "Schlins",
-    "PLZ": 6822,
+    "PLZ": 6824,
     "Website": "http://www.schlins.at",
     "Mail": "info@schlins.at"
   },
   {
     "Gemeindekennziffer": 80419,
     "Gemeindename": "Schnifis",
-    "PLZ": 6824,
+    "PLZ": 6822,
     "Website": "http://www.schnifis.at",
     "Mail": "gemeinde@schnifis.at"
   },
   {
     "Gemeindekennziffer": 80420,
     "Gemeindename": "Sulz",
-    "PLZ": 6822,
+    "PLZ": 6832,
     "Website": "https://www.gemeinde-sulz.at/",
     "Mail": "info@gemeinde-sulz.at"
   },
   {
     "Gemeindekennziffer": 80421,
     "Gemeindename": "Übersaxen",
-    "PLZ": 6832,
+    "PLZ": 6834,
     "Website": "http://www.übersaxen.at",
     "Mail": "gemeinde@uebersaxen.at"
   },
   {
     "Gemeindekennziffer": 80422,
     "Gemeindename": "Viktorsberg",
-    "PLZ": 6834,
+    "PLZ": 6836,
     "Website": "http://www.viktorsberg.at",
     "Mail": "gemeinde@viktorsberg.at"
   },
   {
     "Gemeindekennziffer": 80423,
     "Gemeindename": "Weiler",
-    "PLZ": 6833,
+    "PLZ": 6837,
     "Website": "http://www.gemeinde-weiler.at",
     "Mail": "gemeindeamt@gemeinde-weiler.at"
   },
