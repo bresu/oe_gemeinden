@@ -14656,5 +14656,166 @@
     "PLZ": 6835,
     "Website": "http://www.zwischenwasser.at",
     "Mail": "gemeinde@zwischenwasser.at"
+  },
+  {
+    "Gemeindekennziffer": 90101,
+    "Gemeindename": "Innere Stadt",
+    "PLZ": 1010,
+    "Website": "https://www.wien.gv.at/mba/mba.html",
+    "Mail": "post@mba01.wien.gv.at"
+  },
+  {
+    "Gemeindekennziffer": 90201,
+    "Gemeindename": "Leopoldstadt",
+    "PLZ": 1020,
+    "Website": "https://www.wien.gv.at/mba/mba.html",
+    "Mail": "post@mba02.wien.gv.at"
+  },
+  {
+    "Gemeindekennziffer": 90301,
+    "Gemeindename": "Landstraße",
+    "PLZ": 1030,
+    "Website": "https://www.wien.gv.at/mba/mba.html",
+    "Mail": "post@mba03.wien.gv.at"
+  },
+  {
+    "Gemeindekennziffer": 90401,
+    "Gemeindename": "Wieden",
+    "PLZ": 1040,
+    "Website": "https://www.wien.gv.at/mba/mba.html",
+    "Mail": "post@mba04.wien.gv.at"
+  },
+  {
+    "Gemeindekennziffer": 90501,
+    "Gemeindename": "Margareten",
+    "PLZ": 1050,
+    "Website": "https://www.wien.gv.at/mba/mba.html",
+    "Mail": "post@mba05.wien.gv.at"
+  },
+  {
+    "Gemeindekennziffer": 90601,
+    "Gemeindename": "Mariahilf",
+    "PLZ": 1060,
+    "Website": "https://www.wien.gv.at/mba/mba.html",
+    "Mail": "post@mba06.wien.gv.at"
+  },
+  {
+    "Gemeindekennziffer": 90701,
+    "Gemeindename": "Neubau",
+    "PLZ": 1070,
+    "Website": "https://www.wien.gv.at/mba/mba.html",
+    "Mail": "post@mba07.wien.gv.at"
+  },
+  {
+    "Gemeindekennziffer": 90801,
+    "Gemeindename": "Josefstadt",
+    "PLZ": 1080,
+    "Website": "https://www.wien.gv.at/mba/mba.html",
+    "Mail": "post@mba08.wien.gv.at"
+  },
+  {
+    "Gemeindekennziffer": 90901,
+    "Gemeindename": "Alsergrund",
+    "PLZ": 1090,
+    "Website": "https://www.wien.gv.at/mba/mba.html",
+    "Mail": "post@mba09.wien.gv.at"
+  },
+  {
+    "Gemeindekennziffer": 91001,
+    "Gemeindename": "Favoriten",
+    "PLZ": 1100,
+    "Website": "https://www.wien.gv.at/mba/mba.html",
+    "Mail": "post@mba10.wien.gv.at"
+  },
+  {
+    "Gemeindekennziffer": 91101,
+    "Gemeindename": "Simmering",
+    "PLZ": 1110,
+    "Website": "https://www.wien.gv.at/mba/mba.html",
+    "Mail": "post@mba11.wien.gv.at"
+  },
+  {
+    "Gemeindekennziffer": 91201,
+    "Gemeindename": "Meidling",
+    "PLZ": 1120,
+    "Website": "https://www.wien.gv.at/mba/mba.html",
+    "Mail": "post@mba12.wien.gv.at"
+  },
+  {
+    "Gemeindekennziffer": 91301,
+    "Gemeindename": "Hietzing",
+    "PLZ": 1130,
+    "Website": "https://www.wien.gv.at/mba/mba.html",
+    "Mail": "post@mba13.wien.gv.at"
+  },
+  {
+    "Gemeindekennziffer": 91401,
+    "Gemeindename": "Penzing",
+    "PLZ": 1140,
+    "Website": "https://www.wien.gv.at/mba/mba.html",
+    "Mail": "post@mba14.wien.gv.at"
+  },
+  {
+    "Gemeindekennziffer": 91501,
+    "Gemeindename": "Fünfhaus",
+    "PLZ": 1150,
+    "Website": "https://www.wien.gv.at/mba/mba.html",
+    "Mail": "post@mba15.wien.gv.at"
+  },
+  {
+    "Gemeindekennziffer": 91601,
+    "Gemeindename": "Ottakring",
+    "PLZ": 1160,
+    "Website": "https://www.wien.gv.at/mba/mba.html",
+    "Mail": "post@mba16.wien.gv.at"
+  },
+  {
+    "Gemeindekennziffer": 91701,
+    "Gemeindename": "Hernals",
+    "PLZ": 1170,
+    "Website": "https://www.wien.gv.at/mba/mba.html",
+    "Mail": "post@mba17.wien.gv.at"
+  },
+  {
+    "Gemeindekennziffer": 91801,
+    "Gemeindename": "Währing",
+    "PLZ": 1180,
+    "Website": "https://www.wien.gv.at/mba/mba.html",
+    "Mail": "post@mba18.wien.gv.at"
+  },
+  {
+    "Gemeindekennziffer": 91901,
+    "Gemeindename": "Döbling",
+    "PLZ": 1190,
+    "Website": "https://www.wien.gv.at/mba/mba.html",
+    "Mail": "post@mba19.wien.gv.at"
+  },
+  {
+    "Gemeindekennziffer": 92001,
+    "Gemeindename": "Brigittenau",
+    "PLZ": 1200,
+    "Website": "https://www.wien.gv.at/mba/mba.html",
+    "Mail": "post@mba20.wien.gv.at"
+  },
+  {
+    "Gemeindekennziffer": 92101,
+    "Gemeindename": "Floridsdorf",
+    "PLZ": 1210,
+    "Website": "https://www.wien.gv.at/mba/mba.html",
+    "Mail": "post@mba21.wien.gv.at"
+  },
+  {
+    "Gemeindekennziffer": 92201,
+    "Gemeindename": "Donaustadt",
+    "PLZ": 1220,
+    "Website": "https://www.wien.gv.at/mba/mba.html",
+    "Mail": "post@mba22.wien.gv.at"
+  },
+  {
+    "Gemeindekennziffer": 92301,
+    "Gemeindename": "Liesing",
+    "PLZ": 1230,
+    "Website": "https://www.wien.gv.at/mba/mba.html",
+    "Mail": "post@mba23.wien.gv.at"
   }
 ]
