@@ -1,6 +1,6 @@
 ﻿Gemeindekennziffer;Gemeindename;PLZ;Website;Mail
 10101;Eisenstadt;7000;http://www.eisenstadt.gv.at;rathaus@eisenstadt.at
-10201;Rust;7071;http://www.rust.at;tourismus@freistadt-rust.at
+10201;Rust;7071;https://www.freistadt-rust.at/;post@rust.bgld.gv.at
 10301;Breitenbrunn am Neusiedler See;7091;http://www.breitenbrunn.at;gemeinde@breitenbrunn.at
 10302;Donnerskirchen;7082;http://www.donnerskirchen.at;post@donnerskirchen.bgld.gv.at
 10303;Großhöflein;7051;http://www.grosshoeflein.at;post@grosshoeflein.bgld.gv.at
@@ -88,7 +88,7 @@
 10703;Bruckneudorf;2460;http://www.bruckneudorf.eu;post@bruckneudorf.bgld.gv.at
 10704;Deutsch Jahrndorf;2423;http://www.deutsch-jahrndorf.at/;post@deutsch-jahrndorf.bgld.gv.at
 10705;Frauenkirchen;7132;http://www.frauenkirchen.at;post@frauenkirchen.bgld.gv.at
-10706;Gattendorf;2474;http://www.gemeinde-gattendorf.at;kundenservice@kabelplus.co.at
+10706;Gattendorf;2474;http://www.gattendorf.at;buergerservice@gattendorf.bgld.gv.at
 10707;Gols;7122;http://www.gols.co.at;post@gols.bgld.gv.at
 10708;Halbturn;7131;http://www.halbturn.at;gemeinde@halbturn.at
 10709;Illmitz;7142;http://www.gemeinde-illmitz.at;post@illmitz.bgld.gv.at
@@ -99,7 +99,7 @@
 10714;Nickelsdorf;2425;http://www.nickelsdorf.gv.at;gemeinde@nickelsdorf.at
 10715;Pama;2422;http://www.gemeinde-pama.at;post@pama.bgld.gv.at
 10716;Pamhagen;7152;http://www.gemeinde-pamhagen.at;post@pamhagen.bgld.gv.at
-10717;Parndorf;7111;http://www.gemeinde-parndorf.at;office@eloops.at
+10717;Parndorf;7111;http://www.gemeinde-parndorf.at;post@parndorf.bgld.gv.at
 10718;Podersdorf am See;7141;http://www.podersdorf.at;info@podersdorfamsee.at
 10719;Sankt Andrä am Zicksee;7161;https://www.xn--gemeinde-standr-flb.at;post@st-andrae-zicksee.bgld.gv.at
 10720;Tadten;7162;http://www.tadten.at;post@tadten.bgld.gv.at
@@ -147,7 +147,7 @@
 10907;Kemeten;7531;http://www.kemeten.gv.at;post@kemeten.bgld.gv.at
 10908;Kohfidisch;7512;http://www.kohfidisch.at;post@kohfidisch.bgld.gv.at
 10909;Litzelsdorf;7532;http://www.litzelsdorf.at;info@litzelsdorf.at
-10910;Loipersdorf-Kitzladen;7410;http://www.loipersdorf.co.at;info@panoramahof.com
+10910;Loipersdorf-Kitzladen;7410;https://gemeinde.loipersdorf.at/;gde@bad-loipersdorf.gv.at
 10911;Mariasdorf;7433;http://www.mariasdorf.at;post@mariasdorf.bgld.gv.at
 10912;Markt Allhau;7411;http://www.marktallhau.gv.at;post@markt-allhau.bgld.gv.at
 10913;Markt Neuhodis;7464;http://www.markt-neuhodis.at;post@markt-neuhodis.bgld.gv.at
@@ -207,7 +207,7 @@
 20508;Gurk;9342;http://www.gurk.gv.at;gurk@ktn.gde.at
 20509;Guttaring;9334;http://www.guttaring.at;guttaring@ktn.gde.at
 20511;Hüttenberg;9375;http://www.huettenberg.at;huettenberg@ktn.gde.at
-20512;Kappel am Krappfeld;9321;http://www.kappel.co.at;antiques@kappel.co.at
+20512;Kappel am Krappfeld;9321;https://kappel-am-krappfeld.at/;kappel-kr@ktn.gde.at
 20513;Klein St. Paul;9373;http://www.klein-st-paul.gv.at;klein-st-paul@ktn.gde.at
 20515;Liebenfels;9556;http://www.liebenfels.at;liebenfels@ktn.gde.at
 20518;Metnitz;9363;http://www.metnitz.gv.at;metnitz@ktn.gde.at
@@ -301,7 +301,7 @@
 21007;Reichenau;9565;http://www.reichenau.gv.at;reichenau@ktn.gde.at
 21008;St. Urban;9554;https://www.sturban.at;st-urban@ktn.gde.at
 21009;Steindorf am Ossiacher See;9551;http://www.steindorf.gv.at;steindorf.direktion@ktn.gde.at
-21010;Steuerberg;9560;http://www.steuerberg.co.at;zuhause@steuerberg.eu
+21010;Steuerberg;9560;https://www.steuerberg.at/;steuerberg@ktn.gde.at
 30101;Krems an der Donau;3500;http://www.krems.gv.at/;buergerservice@krems.gv.at
 30201;St. Pölten;3100;http://www.st-poelten.gv.at;tourismus@st-poelten.gv.at
 30301;Waidhofen an der Ybbs;3340;http://www.waidhofen-ybbs.gv.at;post@waidhofen.at
@@ -1904,7 +1904,7 @@
 70714;Lavant;9906;http://www.lavant.at;gemeinde@lavant.at
 70715;Leisach;9909;http://www.leisach.gv.at;gemeinde@leisach.tirol.gv.at
 70716;Lienz;9900;http://www.lienz.gv.at;rathaus@stadt-lienz.at
-70717;Matrei in Osttirol;9971;http://www.matrei-osttirol.at;welcome@sunmatrei.com
+70717;Matrei in Osttirol;9971;http://www.matrei-ost.tirol.gv.at;gemeinde@matrei-ost.tirol.gv.at
 70718;Nikolsdorf;9782;http://www.nikolsdorf.at;gemeinde@nikolsdorf.at
 70719;Nußdorf-Debant;9990;http://www.nussdorf-debant.at;marktgemeinde@nussdorf-debant.at
 70720;Oberlienz;9903;http://www.oberlienz.at;gemeinde@oberlienz.at
