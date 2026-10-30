@@ -305,7 +305,7 @@
     "Gemeindename": "Wörterberg",
     "PLZ": 8293,
     "Website": "http://www.woerterberg.at",
-    "Mail": "post@woerterberg.bgld.gv.a"
+    "Mail": "post@woerterberg.bgld.gv.at"
   },
   {
     "Gemeindekennziffer": 10420,
@@ -962,7 +962,7 @@
     "Gemeindekennziffer": 10827,
     "Gemeindename": "Weingraben",
     "PLZ": 7374,
-    "Website": "none",
+    "Website": "http://www.weingraben.at/",
     "Mail": "post@weingraben.bgld.gv.at"
   },
   {
@@ -997,7 +997,7 @@
     "Gemeindekennziffer": 10904,
     "Gemeindename": "Grafenschachen",
     "PLZ": 7423,
-    "Website": "grafenschachen.at",
+    "Website": "https://www.grafenschachen.at/",
     "Mail": "post@grafenschachen.bgld.gv.at"
   },
   {
@@ -1116,7 +1116,7 @@
     "Gemeindekennziffer": 10921,
     "Gemeindename": "Rotenturm an der Pinka",
     "PLZ": 7501,
-    "Website": "none",
+    "Website": "https://www.gemeinde-rotenturm.at/",
     "Mail": "post@rotenturm-pinka.bgld.gv.at"
   },
   {
@@ -1187,7 +1187,7 @@
     "Gemeindename": "Badersdorf",
     "PLZ": 7512,
     "Website": "http://www.badersdorf.at",
-    "Mail": "post@badersdorf.bgld.gv.at%0a"
+    "Mail": "post@badersdorf.bgld.gv.at"
   },
   {
     "Gemeindekennziffer": 10932,
@@ -2433,7 +2433,7 @@
     "Gemeindename": "Enzesfeld-Lindabrunn",
     "PLZ": 2551,
     "Website": "http://www.enzesfeld-lindabrunn.gv.at",
-    "Mail": "sekretariat@enzesfeld-lindabrunn.a"
+    "Mail": "sekretariat@enzesfeld-lindabrunn.at"
   },
   {
     "Gemeindekennziffer": 30609,
@@ -2838,7 +2838,7 @@
     "Gemeindekennziffer": 30802,
     "Gemeindename": "Andlersdorf",
     "PLZ": 2301,
-    "Website": "https://www.noe.gv.at/noe/Andlersdorf.html",
+    "Website": "https://andlersdorf.gem2go.at/",
     "Mail": "gemeinde-andlersdorf@aon.at"
   },
   {
@@ -2929,7 +2929,7 @@
     "Gemeindekennziffer": 30822,
     "Gemeindename": "Großhofen",
     "PLZ": 2282,
-    "Website": "https://www.noe.gv.at/noe/grosshofen.html",
+    "Website": "https://www.grosshofen.gv.at/",
     "Mail": "gemeinde@grosshofen.gv.at"
   },
   {
@@ -6227,7 +6227,7 @@
     "Gemeindename": "Haigermoos",
     "PLZ": 5120,
     "Website": "http://www.haigermoos.at",
-    "Mail": "E:gemeinde@haigermoos.ooe.gv.at"
+    "Mail": "gemeinde@haigermoos.ooe.gv.at"
   },
   {
     "Gemeindekennziffer": 40412,
@@ -7584,7 +7584,7 @@
     "Gemeindekennziffer": 41122,
     "Gemeindename": "St. Thomas am Blasenstein",
     "PLZ": 4364,
-    "Website": "St. Thomas am Blasenstein",
+    "Website": "https://www.st-thomas.at/",
     "Mail": "marktgemeinde@st-thomas.at"
   },
   {
@@ -11225,7 +11225,7 @@
     "Gemeindename": "Sankt Kathrein am Offenegg",
     "PLZ": 8171,
     "Website": "https://www.st-kathrein.at",
-    "Mail": "SanktKathreinamOffenegg"
+    "Mail": "gde@st-kathrein-offenegg.gv.at"
   },
   {
     "Gemeindekennziffer": 61746,

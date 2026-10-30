@@ -1,4 +1,4 @@
-﻿Gemeindekennziffer;Gemeindename;PLZ;Website;Mail
+Gemeindekennziffer;Gemeindename;PLZ;Website;Mail
 10101;Eisenstadt;7000;http://www.eisenstadt.gv.at;rathaus@eisenstadt.at
 10201;Rust;7071;https://www.freistadt-rust.at/;post@rust.bgld.gv.at
 10301;Breitenbrunn am Neusiedler See;7091;http://www.breitenbrunn.at;gemeinde@breitenbrunn.at
@@ -31,7 +31,7 @@
 10405;Güssing;7540;http://www.guessing.co.at;post@guessing.bgld.gv.at
 10406;Güttenbach;7536;http://www.guettenbach.at;post@guettenbach.bgld.gv.at
 10407;Heiligenbrunn;7522;http://www.heiligenbrunn.at;post@heiligenbrunn.bgld.gv.at
-10408;Kukmirn;7543;http://www.kukmirn.at;"""post@kukmirn.bgld.gv.at"
+10408;Kukmirn;7543;http://www.kukmirn.at;post@kukmirn.bgld.gv.at
 10409;Neuberg im Burgenland;7537;http://www.neuberg-bgld.at/;post@neuberg.bgld.gv.at
 10410;Neustift bei Güssing;7540;http://www.neustift-bei-güssing.at/;post@neustift-guessing.bgld.gv.at
 10411;Olbendorf;7534;http://www.olbendorf.at;post@olbendorf.bgld.gv.at
@@ -42,7 +42,7 @@
 10416;Strem;7522;http://www.strem.co.at;post@strem.bgld.gv.at
 10417;Tobaj;7544;http://www.tobaj.gv.at;post@tobaj.bgld.gv.at
 10418;Hackerberg;8292;http://www.hackerberg.at;post@hackerberg.bgld.gv.at
-10419;Wörterberg;8293;http://www.woerterberg.at;post@woerterberg.bgld.gv.a
+10419;Wörterberg;8293;http://www.woerterberg.at;post@woerterberg.bgld.gv.at
 10420;Großmürbisch;7540;http://www.grossmuerbisch.at;post@strem.bgld.gv.at
 10421;Inzenhof;7540;http://www.inzenhof.at;post@inzenhof.bgld.gv.at
 10422;Kleinmürbisch;7540;http://www.kleinmuerbisch.at;post@kleinmuerbisch.bgld.gv.at
@@ -136,12 +136,12 @@
 10824;Lackendorf;7321;http://www.lackendorf.at;post@lackendorf.bgld.gv.at
 10825;Unterfrauenhaid;7321;http://www.unterfrauenhaid.at;post@unterfrauenhaid.bgld.gv.at
 10826;Unterrabnitz-Schwendgraben;7371;http://www.unterrabnitz.at;post@unterrabnitz-schwendgraben.bgld.gv.at
-10827;Weingraben;7374;none;none
+10827;Weingraben;7374;http://www.weingraben.at/;post@weingraben.bgld.gv.at
 10828;Oberloisdorf;7451;http://www.oberloisdorf.at;post@oberloisdorf.bgld.gv.at
 10901;Bad Tatzmannsdorf;7431;http://www.bad-tatzmannsdorf.at;post@bad-tatzmannsdorf.bgld.gv.at
 10902;Bernstein;7434;http://www.bernstein.gv.at;post@bernstein.bgld.gv.at
 10903;Deutsch Schützen-Eisenberg;7474;https://www.eisenberg.at;post@deutsch-schuetzen-eisenberg.bgld.gv.at
-10904;Grafenschachen;7423;none;none
+10904;Grafenschachen;7423;https://www.grafenschachen.at/;post@grafenschachen.bgld.gv.at
 10905;Großpetersdorf;7503;http://www.grosspetersdorf.at;post@grosspetersdorf.bgld.gv.at
 10906;Hannersdorf;7473;http://www.hannersdorf.at;post@hannersdorf.bgld.gv.at
 10907;Kemeten;7531;http://www.kemeten.gv.at;post@kemeten.bgld.gv.at
@@ -158,7 +158,7 @@
 10918;Pinkafeld;7423;http://www.pinkafeld.gv.at;post@pinkafeld.bgld.gv.at
 10919;Rechnitz;7471;http://www.rechnitz.at;post@rechnitz.bgld.gv.at
 10920;Riedlingsdorf;7422;http://www.riedlingsdorf.at;post@riedlingsdorf.bgld.gv.at
-10921;Rotenturm an der Pinka;7501;nope;none
+10921;Rotenturm an der Pinka;7501;https://www.gemeinde-rotenturm.at/;post@rotenturm-pinka.bgld.gv.at
 10922;Schachendorf;7472;http://www.schachendorf.at;post@schachendorf.bgld.gv.at
 10923;Stadtschlaining;7461;https://www.stadtschlaining.at;post@stadtschlaining.bgld.gv.at
 10924;Unterkohlstätten;7435;http://www.unterkohlstaetten.at;post@unterkohlstaetten.bgld.gv.at
@@ -168,7 +168,7 @@
 10928;Wolfau;7412;http://www.gemeinde-wolfau.at;post@wolfau.bgld.gv.at
 10929;Neustift an der Lafnitz;7423;http://www.neustift-lafnitz.at/;post@neustift-lafnitz.bgld.gv.at
 10930;Jabing;7503;http://www.gemeinde-jabing.at;post@jabing.bgld.gv.at
-10931;Badersdorf;7512;http://www.badersdorf.at;post@badersdorf.bgld.gv.at%0a
+10931;Badersdorf;7512;http://www.badersdorf.at;post@badersdorf.bgld.gv.at
 10932;Schandorf;7472;http://www.schandorf.at;post@schandorf.bgld.gv.at
 20101;Klagenfurt am Wörthersee;9020;http://www.klagenfurt.gv.at;info@klagenfurt.at
 20201;Villach;9500;http://www.villach.at;service@villach.at
@@ -346,7 +346,7 @@
 30604;Baden;2500;http://www.baden.gv.at;buergerservice@baden.gv.at
 30605;Berndorf;2560;http://www.berndorf.gv.at;post@berndorf.gv.at
 30607;Ebreichsdorf;2483;http://www.ebreichsdorf.gv.at;office@ebreichsdorf.at
-30608;Enzesfeld-Lindabrunn;2551;http://www.enzesfeld-lindabrunn.gv.at;sekretariat@enzesfeld-lindabrunn.a
+30608;Enzesfeld-Lindabrunn;2551;http://www.enzesfeld-lindabrunn.gv.at;sekretariat@enzesfeld-lindabrunn.at
 30609;Furth an der Triesting;2564;http://www.furth-triesting.at/;gemeinde@furth-triesting.at
 30612;Günselsdorf;2525;http://www.guenselsdorf.at;gemeinde@guenselsdorf.gv.at
 30613;Heiligenkreuz;2532;http://www.heiligenkreuz.gv.at;gemeinde@heiligenkreuz.gv.at
@@ -404,7 +404,7 @@
 30740;Schwechat;2320;http://www.schwechat.gv.at;stadtgemeinde@schwechat.gv.at
 30741;Zwölfaxing;2322;http://www.zwoelfaxing.gv.at;gemeinde@zwoelfaxing.gv.at
 30801;Aderklaa;2232;http://www.aderklaa.gv.at;gemeinde@aderklaa.gv.at
-30802;Andlersdorf;2301;none;none
+30802;Andlersdorf;2301;https://andlersdorf.gem2go.at/;gemeinde-andlersdorf@aon.at
 30803;Angern an der March;2261;http://www.angern.at;gemeinde@angern.at
 30804;Auersthal;2214;http://www.auersthal.gv.at;gemeinde@auersthal.at
 30805;Bad Pirawarth;2222;http://www.bad-pirawarth.gv.at;gemeinde@badpirawarth.gv.at
@@ -417,7 +417,7 @@
 30817;Gänserndorf;2230;http://www.gaenserndorf.at;gemeinde@gaenserndorf.at
 30819;Glinzendorf;2282;http://www.glinzendorf.gv.at;gemeinde@glinzendorf.gv.at
 30821;Groß-Enzersdorf;2301;http://www.gross-enzersdorf.gv.at;buergerservice@gross-enzersdorf.gv.at
-30822;Großhofen;2282;none;none
+30822;Großhofen;2282;https://www.grosshofen.gv.at/;gemeinde@grosshofen.gv.at
 30824;Groß-Schweinbarth;2221;http://www.gross-schweinbarth.gv.at;gemeinde@gross-schweinbarth.gv.at
 30825;Haringsee;2286;http://www.haringsee.at;gemeinde@haringsee.at
 30826;Hauskirchen;2184;http://www.hauskirchen.gv.at;gemeinde@hauskirchen.gv.at
@@ -888,7 +888,7 @@
 40408;Franking;5131;http://www.franking.ooe.gv.at/;gemeinde@franking.ooe.gv.at
 40409;Geretsberg;5132;http://www.geretsberg.at;gemeinde@geretsberg.ooe.gv.at
 40410;Gilgenberg am Weilhart;5133;http://www.gilgenberg.at/;gemeinde@gilgenberg.ooe.gv.at
-40411;Haigermoos;5120;http://www.haigermoos.at;E:gemeinde@haigermoos.ooe.gv.at
+40411;Haigermoos;5120;http://www.haigermoos.at;gemeinde@haigermoos.ooe.gv.at
 40412;Handenberg;5144;https://www.handenberg.ooe.gv.at;gemeinde@handenberg.ooe.gv.at
 40413;Helpfau-Uttendorf;5261;http://www.helpfau-uttendorf.at;gemeinde@helpfau-uttendorf.ooe.gv.at
 40414;Hochburg-Ach;5122;http://www.hochburg-ach.at;gemeinde@hochburg-ach.ooe.gv.at
@@ -1082,7 +1082,7 @@
 41119;St. Georgen am Walde;4372;http://www.st-georgen-walde.ooe.gv.at;marktgemeinde@st-georgen-walde.ooe.gv.at
 41120;St. Georgen an der Gusen;4222;http://www.st-georgen-gusen.at;gemeinde@st-georgen-gusen.at
 41121;St. Nikola an der Donau;4381;http://www.st-nikola-donau.ooe.gv.at;gemeinde@st-nikola-donau.ooe.gv.at
-41122;St. Thomas am Blasenstein;4364;St. Thomas am Blasenstein;marktgemeinde@st-thomas.at
+41122;St. Thomas am Blasenstein;4364;https://www.st-thomas.at/;marktgemeinde@st-thomas.at
 41123;Saxen;4351;http://www.saxen.at;gemeinde@saxen.at
 41124;Schwertberg;4311;http://www.schwertberg.at;gemeinde@schwertberg.at
 41125;Waldhausen im Strudengau;4391;https://www.waldhausen.at/;gemeinde@waldhausen.ooe.gv.at
@@ -1196,7 +1196,7 @@
 41504;Dietach;4407;http://www.dietach.at;gemeinde@dietach.ooe.gv.at
 41505;Gaflenz;3334;http://www.gaflenz.at;gemeinde@gaflenz.ooe.gv.at
 41506;Garsten;4451;http://www.garsten.at;gemeinde@garsten.ooe.gv.at
-41507;Großraming;4463;http://www.grossraming.at;gemeinde@gro√É¬É√Ç¬üraming.ooe.gv.at
+41507;Großraming;4463;http://www.grossraming.at;gemeinde@grossraming.ooe.gv.at
 41508;Laussa;4461;http://www.laussa.at;gemeinde@laussa.ooe.gv.at
 41509;Losenstein;4460;http://www.losenstein.at;gemeinde@losenstein.ooe.gv.at
 41510;Maria Neustift;4443;http://www.maria-neustift.at;gemeinde@maria-neustift.ooe.gv.at
@@ -1326,7 +1326,7 @@
 50210;Rußbach am Paß Gschütt;5442;http://www.russbach.at;info@russbach.at
 50211;Sankt Koloman;5423;https://www.stkoloman.at;gemeinde@stkoloman.at
 50212;Scheffau am Tennengebirge;5440;https://www.scheffau.salzburg.at/;office@scheffau.salzburg.at
-50213;Bad Vigaun;5424;http://www.bad-vigaun.at;"""info@bad-vigaun.at"
+50213;Bad Vigaun;5424;http://www.bad-vigaun.at;info@bad-vigaun.at
 50301;Anif;5081;http://www.anif.gv.at;gemeinde@gemeindeanif.at
 50302;Anthering;5102;http://www.anthering.at;gemeinde@anthering.at
 50303;Bergheim;5101;http://www.bergheim.co.at;info@bergheim-tourismus.at
@@ -1602,7 +1602,7 @@
 61741;Ratten;8673;https://www.ratten-steiermark.at/;gde@ratten.steiermark.at
 61743;Rettenegg;8674;http://www.rettenegg.at;gde@rettenegg.steiermark.at
 61744;St. Kathrein am Hauenstein;8672;http://www.st-kathrein-hauenstein.at;gde@st-kathrein-hauenstein.steiermark.at
-61745;Sankt Kathrein am Offenegg;8171;https://www.st-kathrein.at;SanktKathreinamOffenegg
+61745;Sankt Kathrein am Offenegg;8171;https://www.st-kathrein.at;gde@st-kathrein-offenegg.gv.at
 61746;St. Margarethen an der Raab;8321;http://www.st-margarethen-raab.at;gde@st-margarethen-raab.at
 61748;Sinabelkirchen;8261;http://www.sinabelkirchen.gv.at;gde@sinabelkirchen.steiermark.at
 61750;Strallegg;8192;http://www.strallegg.at;info@strallegg.at
